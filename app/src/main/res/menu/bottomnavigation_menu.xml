@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home_menu"
+        android:title="@string/schedule"
+        android:icon="@drawable/baseline_reorder_black_24dp"/>
+
+    <item
+        android:id="@+id/search_menu"
+        android:title="@string/rute"
+        android:icon="@drawable/baseline_place_black_24dp"/>
+
+    <item
+        android:id="@+id/favorite_menu"
+        android:title="@string/customer"
+        android:icon="@drawable/baseline_person_add_black_24dp"/>
+
+</menu>
